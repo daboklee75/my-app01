@@ -1,10 +1,12 @@
 import Body from './pages/app/body';
+import Bodyhook from './pages/app/bodyhook';
 
 function App() {
 
     return (
         <div>
-            <Body />
+            {/*<Body />*/}
+            <Bodyhook />
         </div>
     );
 }
